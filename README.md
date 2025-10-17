@@ -123,7 +123,7 @@ npm install
 
 3. Start the server:
 ```bash
-npm run dev
+npx expo start
 ```
 
 4. **Important:** After configuring `.env` with your credentials, uncomment the `.env` line in `server/.gitignore` to protect your sensitive data
