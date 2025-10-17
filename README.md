@@ -38,12 +38,9 @@ npm install
 npx expo start
 ```
 
-#### Option 3: Publish to npm (for reusable template)
+#### Option 3: Get it from GitHub directly (recomended)
 ```bash
-# In the template directory
-npm publish
-# Then use it anywhere
-npx create-expo-app MyApp --template @your-username/luxzrntemplate
+npx create-expo-app MyApp --template https://github.com/tentimesukulele/LuxzRNTemplate
 ```
 
 ## Project Structure
