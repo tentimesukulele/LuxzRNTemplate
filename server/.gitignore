@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment variables (users should modify .env with their own values)
+# Note: The template .env file is committed for convenience
+# After cloning, your changes to .env will be ignored
+# Uncomment the line below after your first commit to ignore .env changes:
+# .env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db

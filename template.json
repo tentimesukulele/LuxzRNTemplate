@@ -1,0 +1,12 @@
+{
+  "name": "LuxzRNTemplate",
+  "displayName": "Luxz React Native Template",
+  "description": "A React Native template with Expo Router, navigation, theming, and common components - JavaScript only (no TypeScript)",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "expo": {
+    "install": {
+      "exclude": []
+    }
+  }
+}
