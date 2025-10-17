@@ -28,7 +28,11 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "bfw": "expo export -p web",
+    "bfa": "eas build -p android",
+    "bfios": "eas build -p ios",
+    "bfioslocal": "eas build -p ios --local"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.2",
