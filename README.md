@@ -24,7 +24,7 @@ You can use this template in several ways:
 
 #### Option 1: Clone directly
 ```bash
-git clone <your-repo-url> MyApp
+git clone https://github.com/tentimesukulele/LuxzRNTemplate MyApp
 cd MyApp
 npm install
 npx expo start
